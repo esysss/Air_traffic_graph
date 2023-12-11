@@ -1,2 +1,2 @@
 # Air traffic graph
-This project was done this three part which i am going to upload it one by one
+This project was done in three steps. I will add more information about each one in the future.
